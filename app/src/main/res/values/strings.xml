@@ -1,0 +1,18 @@
+<resources>
+   <!-- <string name="app_name">9jaHotstars</string> -->
+    <string name="app_name">Auction45</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- -
+        This is your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-7276637365089404/2366776721</string>
+    <!-- -
+        This is your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-7276637365089404/4478822795</string>
+</resources>
